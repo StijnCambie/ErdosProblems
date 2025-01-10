@@ -1,4 +1,4 @@
-#code and data for Erdosproblem 692 
+*code and data for Erdosproblem 692 
 (https://www.erdosproblems.com/692)
 
 We give code computing delta_1(n,m) for n <=20 and m-n small,
