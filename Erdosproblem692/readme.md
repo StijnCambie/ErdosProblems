@@ -1,4 +1,4 @@
-# Code and data related for Erdosproblem 690 and 692 
+# Code and data related to Erdosproblem 690 and 692 
 (https://www.erdosproblems.com/690 and https://www.erdosproblems.com/692)
 
 for problem 692:
